@@ -32,7 +32,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless Experiences"
           />
           <p className="text-center md:tracking-wider md-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Sandman, a Next.js Developer based in Canada
+            Hi, I&apos;m Sandrow, a Next.js Developer based in Canada
           </p>
           <a href="#about">
             <MagicButton
